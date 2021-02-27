@@ -21,7 +21,6 @@ Results: Using images and examples of your code, compare the stock performance b
 The Results of the analysis were very clear.  Annual growth in 2017 was very good and in 2018, they were much poorer across the board.
 - [VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 - [VBA_Challenge_2018.png](VBA_Challenge_2018.png)
-- 
 
 
 ## Summary: In a summary statement, address the following questions.
