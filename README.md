@@ -30,6 +30,9 @@ To review the VBA code and macro, or the data, please see the link below:
 
 -[VBA_Challenge.xlsm](VBA_Challenge.xlsm)
 
+To view the VBA code, please see *Module1*, the very last macro called **Sub AllStocksAnalysisRefactored()**
+
+
 ### What are the advantages or disadvantages of refactoring code?
 
 Refactoring code has many advantages.  There is almost always a better way of doing something.  Given the chance to reflect the ability to revise and retune code or “refactor” so it is more efficient is an excellent way to continue to be able to build more and more sophisticated code and reduce the chance of error as one adds features and complexity.
