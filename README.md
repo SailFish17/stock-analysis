@@ -26,7 +26,7 @@ The Results of the analysis were very clear.  Annual growth in 2017 was very goo
 ## Summary: In a summary statement, address the following questions.
 
 This code will review the data and pull the start and end pricing over a given data set as long as it is in date order.   
-to review the VBA code and macro, or the data, please see the link below:
+To review the VBA code and macro, or the data, please see the link below:
 
 -[VBA_Challenge.xlsm](VBA_Challenge.xlsm)
 
