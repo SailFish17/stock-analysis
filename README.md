@@ -19,8 +19,10 @@ The initial looping sequence was clunky and slow.    Learning to do it a bit lea
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 The Results of the analysis were very clear.  Annual growth in 2017 was very good and in 2018, they were much poorer across the board.
-- [VBA_Challenge_2017.png](VBA_Challenge_2017.png)
-- [VBA_Challenge_2018.png](VBA_Challenge_2018.png)
+![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
+
+
+![VBA_Challenge_2018.png](VBA_Challenge_2018.png)
 
 
 ## Summary: In a summary statement, address the following questions.
